@@ -32,5 +32,3 @@ def task_scheduling(tasks):
 # Example usage:
 tasks = [("Task1", 1, 3), ("Task2", 1, 4), ("Task3", 2, 5), ("Task4", 3, 7), ("Task5", 4, 7), ("Task6", 6, 9), ("Task7", 7, 8)]
 task_scheduling(tasks)
-
-q
